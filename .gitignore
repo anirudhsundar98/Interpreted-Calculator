@@ -1,0 +1,12 @@
+grammars/tpantlr2-code/
+Language Definition.txt
+grammars/test/ArrayInit.g4
+grammars/test/Hello.g4
+src/compilers/array_init/
+src/compilers/Hello/
+src/Scripts/
+src/script.sh
+
+out/
+.idea/
+*.iml
